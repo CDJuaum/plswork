@@ -119,6 +119,12 @@ class ConfigHandler:
         self.data = self.load_config()
         guild_info = self.data["Guilds"].get(str(guild_id), {})
         return guild_info.get("prefix", "")
+    
+    def remove_guild(self, guild_id):
+        self.data = self.load_config()
+        if str(guild_id) in self.data["Guilds"]:
+            del self.data["Guilds"][str(guild_id)]
+            self.save_config()
 
     def change_role_to_add(self, guild_id, new_role_id):
         self.data = self.load_config()
