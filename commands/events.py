@@ -27,6 +27,11 @@ class Events(commands.Cog):
         if not ch.is_guild_in_config(guild_id):
             ch.create_new_guild_template(guild_id, guild_name)
 
+    '''On Guild Remove'''
+    @commands.Cog.listener()
+    async def on_guild_remove(self, guild):
+        ch.remove_guild(guild.id)
+
     '''On Member Join'''
     @commands.Cog.listener()
     async def on_member_join(self, member):
