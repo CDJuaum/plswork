@@ -1,0 +1,153 @@
+[2023-10-02 18:21:53] Running as Twitch Notifications
+[2023-10-02 19:27:01] Command ,add doesn't exist.
+[2023-10-02 19:33:40] Running as Twitch Notifications
+[2023-10-02 19:36:00] Running as Twitch Notifications
+[2023-10-02 19:36:32] Running as Twitch Notifications
+[2023-10-02 19:38:34] Running as Twitch Notifications
+[2023-10-02 19:40:45] Running as Twitch Notifications
+[2023-10-02 19:43:44] Running as Twitch Notifications
+[2023-10-02 19:45:45] cdjuaum requested their streamers, but they don't have a watchlist yet.
+[2023-10-02 20:21:00] Running as Twitch Notifications
+[2023-10-02 20:21:25] Created a new watchlist for user cdjuaum and added alanzoka.
+[2023-10-02 20:21:27] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-02 20:22:19] Removed alanzoka from user cdjuaum's watchlist.
+[2023-10-02 22:03:04] Running as Twitch Notifications
+[2023-10-02 22:04:02] Running as Twitch Notifications
+[2023-10-02 22:04:57] Running as Twitch Notifications
+[2023-10-02 22:05:07] Command ,status doesn't exist.
+[2023-10-02 22:05:57] Command ,r doesn't exist.
+[2023-10-02 22:06:05] Command ,remove doesn't exist.
+[2023-10-02 22:08:26] Running as Twitch Notifications
+[2023-10-02 22:08:31] Command ,r doesn't exist.
+[2023-10-02 22:08:38] Command ,remove doesn't exist.
+[2023-10-02 22:09:08] Running as Twitch Notifications
+[2023-10-02 22:18:06] Running as Twitch Notifications
+[2023-10-02 22:18:14] Command ,r doesn't exist.
+[2023-10-02 22:18:19] Command ,remove doesn't exist.
+[2023-10-02 22:20:19] Command ,remove_messages doesn't exist.
+[2023-10-02 22:27:29] Running as Twitch Notifications
+[2023-10-02 22:30:42] Running as Twitch Notifications
+[2023-10-02 22:30:49] Command ,lol doesn't exist.
+[2023-10-02 22:32:50] Running as Twitch Notifications
+[2023-10-02 22:32:59] Command ,lol doesn't exist.
+[2023-10-03 13:41:24] Running as Twitch Notifications
+[2023-10-03 13:57:10] Running as Twitch Notifications
+[2023-10-03 14:25:53] Running as Twitch Notifications
+[2023-10-03 15:38:35] Running as Twitch Notifications
+[2023-10-03 15:38:52] Added alanzoka to user cdjuaum's watchlist.
+[2023-10-03 15:39:20] Command ,help doesn't exist.
+[2023-10-03 15:43:10] Running as Twitch Notifications
+[2023-10-03 15:43:19] Running as Twitch Notifications
+[2023-10-03 15:44:21] Command ,load doesn't exist.
+[2023-10-03 15:44:26] Command ,lol doesn't exist.
+[2023-10-03 15:46:15] Running as Twitch Notifications
+[2023-10-03 15:46:43] Command ,lol doesn't exist.
+[2023-10-03 15:48:20] Running as Twitch Notifications
+[2023-10-03 15:48:32] Command ,lol doesn't exist.
+[2023-10-03 15:50:35] Running as Twitch Notifications
+[2023-10-03 17:21:37] Running as Twitch Notifications
+[2023-10-03 17:21:52] Running as Twitch Notifications
+[2023-10-03 17:26:07] Running as Twitch Notifications
+[2023-10-03 17:26:13] Command ,lol doesn't exist.
+[2023-10-03 17:27:17] Running as Twitch Notifications
+[2023-10-03 17:33:25] Running as Twitch Notifications
+[2023-10-03 17:33:28] Command ,lol doesn't exist.
+[2023-10-03 17:35:48] Running as Twitch Notifications
+[2023-10-03 17:36:03] lol Twitch profile not found.
+[2023-10-03 17:36:21] Added linustechtips to user cdjuaum's watchlist.
+[2023-10-03 17:36:32] cdjuaum Unregistered from bot.
+[2023-10-03 17:36:39] Created a new watchlist for user cdjuaum and added alanzoka.
+[2023-10-03 17:50:53] Running as Twitch Notifications
+[2023-10-03 18:00:00] Running as Twitch Notifications
+[2023-10-03 18:00:11] Added linustechtips to user cdjuaum's watchlist.
+[2023-10-03 18:00:16] cdjuaum Unregistered from bot.
+[2023-10-03 18:13:12] Running as Twitch Notifications
+[2023-10-03 18:13:34] Created a new watchlist for user cdjuaum and added alan.
+[2023-10-03 18:13:41] Removed alan from user cdjuaum's watchlist.
+[2023-10-03 18:34:40] Running as Twitch Notifications
+[2023-10-03 18:35:01] Added alanzoka to user cdjuaum's watchlist.
+[2023-10-03 18:36:17] Running as Twitch Notifications
+[2023-10-03 18:46:45] Added s0ldierbr to user cdjuaum's watchlist.
+[2023-10-03 18:48:47] Running as Twitch Notifications
+[2023-10-03 18:48:48] Notification sent successfully for s0ldierbr. to member cdjuaum
+[2023-10-03 19:02:44] Running as Twitch Notifications
+[2023-10-03 19:02:46] Notification sent successfully for s0ldierbr. to member cdjuaum
+[2023-10-03 19:03:24] Running as Twitch Notifications
+[2023-10-03 19:03:25] Notification sent successfully for s0ldierbr. to member cdjuaum
+[2023-10-03 19:03:28] cdjuaum requested their streamers: 2
+[2023-10-03 19:25:38] Running as Twitch Notifications
+[2023-10-03 19:25:39] Notification sent successfully for s0ldierbr. to member cdjuaum
+[2023-10-03 19:25:40] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-03 19:25:45] cdjuaum Unregistered from bot.
+[2023-10-03 19:30:44] Running as Twitch Notifications
+[2023-10-03 19:31:56] Running as Twitch Notifications
+[2023-10-03 19:33:54] Running as Twitch Notifications
+[2023-10-03 19:33:56] Command ,lmao doesn't exist.
+[2023-10-03 19:35:32] Running as Twitch Notifications
+[2023-10-03 19:36:15] Running as Twitch Notifications
+[2023-10-03 19:36:19] Command ,als doesn't exist.
+[2023-10-03 21:07:17] Running as Twitch Notifications
+[2023-10-03 23:08:59] Running as Twitch Notifications
+[2023-10-03 23:09:03] Command ,lol doesn't exist.
+[2023-10-03 23:09:11] cdjuaum requested their streamers, but they don't have a watchlist yet.
+[2023-10-03 23:49:27] Running as Twitch Notifications
+[2023-10-03 23:50:10] cdjuaum requested their streamers, but they don't have a watchlist yet.
+[2023-10-04 00:00:25] Running as Twitch Notifications
+[2023-10-04 00:00:31] Created a new watchlist for user cdjuaum and added 2beelzebub2.
+[2023-10-04 00:01:03] Notification sent successfully for 2beelzebub2. to member cdjuaum
+[2023-10-04 17:42:16] Running as Twitch Notifications
+[2023-10-04 17:42:38] Running as Twitch Notifications
+[2023-10-04 17:49:22] Running as Twitch Notifications
+[2023-10-04 17:54:32] Running as Twitch Notifications
+[2023-10-04 17:56:07] Running as Twitch Notifications
+[2023-10-04 18:00:32] Running as Twitch Notifications
+[2023-10-04 18:05:04] Running as Twitch Notifications
+[2023-10-04 18:05:18] Added alanzoka to user cdjuaum's watchlist.
+[2023-10-04 18:05:26] Removed alanzoka from user cdjuaum's watchlist.
+[2023-10-04 18:06:51] Running as Twitch Notifications
+[2023-10-04 18:07:47] Running as Twitch Notifications
+[2023-10-04 18:12:21] Running as Twitch Notifications
+[2023-10-04 18:13:01] cdjuaum Unregistered from bot.
+[2023-10-04 18:13:01] cdjuaum Tried to unregister from bot but wasn't registered to begin with.
+[2023-10-04 18:13:26] lol Twitch profile not found.
+[2023-10-04 18:13:27] lol Twitch profile not found.
+[2023-10-04 18:17:14] Running as Twitch Notifications
+[2023-10-04 18:17:24] lol Twitch profile not found.
+[2023-10-04 18:17:28] cdjuaum Tried to unregister from bot but wasn't registered to begin with.
+[2023-10-04 18:28:55] Running as Twitch Notifications
+[2023-10-04 18:37:38] Running as Twitch Notifications
+[2023-10-04 18:38:49] Running as Twitch Notifications
+[2023-10-04 20:56:16] Running as Twitch Notifications
+[2023-10-04 20:56:29] Created a new watchlist for user cdjuaum and added alanzoka.
+[2023-10-04 20:56:33] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 20:59:48] Running as Twitch Notifications
+[2023-10-04 20:59:49] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 21:05:37] Running as Twitch Notifications
+[2023-10-04 21:05:38] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 21:11:34] Running as Twitch Notifications
+[2023-10-04 21:11:35] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 21:23:58] Running as Twitch Notifications
+[2023-10-04 21:23:59] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 21:24:22] Running as Twitch Notifications
+[2023-10-04 21:24:24] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 21:25:01] Running as Twitch Notifications
+[2023-10-04 21:25:02] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 21:32:52] Running as Twitch Notifications
+[2023-10-04 21:32:54] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 21:37:46] Running as Twitch Notifications
+[2023-10-04 21:37:48] Notification sent successfully for alanzoka. to member cdjuaum
+[2023-10-04 21:41:47] Running as Twitch Notifications
+[2023-10-04 21:42:07] Created a new watchlist for user cdjuaum and added dantes.
+[2023-10-04 21:42:09] cdjuaum requested their streamers: 1
+[2023-10-04 22:02:07] Running as Twitch Notifications
+[2023-10-04 22:04:05] cdjuaum Tried to unregister from bot but wasn't registered to begin with.
+[2023-10-04 22:52:58] Running as Twitch Notifications
+[2023-10-04 22:58:32] Running as Twitch Notifications
+[2023-10-04 22:58:48] something Twitch profile not found.
+[2023-10-04 22:59:03] Created a new watchlist for user cdjuaum and added dantes.
+[2023-10-04 22:59:07] Removed dantes from user cdjuaum's watchlist.
+[2023-10-04 22:59:12] cdjuaum Unregistered from bot.
+[2023-10-04 23:19:07] Running as Twitch Notifications
+[2023-10-04 23:30:09] Running as Twitch Notifications
+[2023-10-04 23:30:15] Created a new watchlist for user cdjuaum and added dantes.
+[2023-10-04 23:34:36] Running as Twitch Notifications

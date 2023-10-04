@@ -1,0 +1,8 @@
+.env
+Twitch/
+.vscode/
+test.py
+venv/
+data.json
+tests2.py
+data.json
