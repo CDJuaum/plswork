@@ -1,6 +1,6 @@
 from discord.ext import commands
 from colorama import Fore
-from discord import Embed
+import discord
 from functions.others import log_print, get_timestamp
 import pickle
 
@@ -34,7 +34,7 @@ class UnRegister(commands.Cog):
                 + f"{Fore.RED + ctx.author.name + Fore.RESET} Unregistered from bot."
                 + Fore.RESET
             )
-            embed = Embed(
+            embed = discord.Embed(
                 title="Unregistration Successful",
                 description="You have been unregistered from the bot.",
                 color=0x00FF00,
@@ -52,7 +52,7 @@ class UnRegister(commands.Cog):
                 + f"{Fore.RED + ctx.author.name + Fore.RESET} Tried to unregister from bot but wasn't registered to begin with."
                 + Fore.RESET
             )
-            embed = Embed(
+            embed = discord.Embed(
                 title="Unregistration Error",
                 description="You are not registered with the bot.",
                 color=0xFF0000,

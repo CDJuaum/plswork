@@ -1,5 +1,5 @@
 from discord.ext import commands
-from discord import Role
+import discord
 import pickle
 
 with open("variables.pkl", "rb") as file:
@@ -21,7 +21,7 @@ class Configs(commands.Cog):
     usage="configrole <@role>",
     help="Change the role to add in the server configuration",
     )
-    async def prefix_config_role(self, ctx, role: Role):
+    async def prefix_config_role(self, ctx, role: discord.Role):
         if not ctx.author.guild_permissions.administrator:
             await ctx.send(
                 "You do not have the necessary permissions to use this command."

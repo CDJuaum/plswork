@@ -1,7 +1,7 @@
 from discord.ext import commands
 import sys
-from os import execl
-from discord import Embed
+import os
+import discord
 import pickle
 
 with open("variables.pkl", "rb") as file:
@@ -23,7 +23,7 @@ class Restart(commands.Cog):
 )
     async def restart(self, ctx):
         if str(ctx.author.id) != ch.get_bot_owner_id():
-            embed = Embed(
+            embed = discord.Embed(
                 title="Permission Error",
                 description="You don't have permissions to use this command.",
                 color=0xFF0000,
@@ -33,7 +33,7 @@ class Restart(commands.Cog):
             return
         data = {"Restarted": True, "Streamers": processed_streamers}
         ch.save_to_temp_json(data)
-        embed = Embed(
+        embed = discord.Embed(
             title="Restarting",
             description="Bot is restarting...",
             color=0x00FF00,
@@ -43,7 +43,7 @@ class Restart(commands.Cog):
 
         python = sys.executable
         print(python)
-        execl(python, python, *sys.argv)
+        os.execl(python, python, *sys.argv)
 
 async def setup(bot):
     await bot.add_cog(Restart(bot))

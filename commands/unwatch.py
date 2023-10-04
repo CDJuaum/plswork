@@ -2,7 +2,7 @@ from discord.ext import commands
 from colorama import Fore
 import discord
 from functions.others import get_timestamp, log_print
-from re import search
+import re
 import pickle
 
 with open("variables.pkl", "rb") as file:
@@ -25,7 +25,7 @@ class UnWatch(commands.Cog):
     )
     async def unwatch(self, ctx, streamer_name_or_link: str):
         if "https://www.twitch.tv/" in streamer_name_or_link:
-            streamer_name = search(
+            streamer_name = re.search(
                 r"https://www.twitch.tv/([^\s/]+)", streamer_name_or_link
             ).group(1)
             streamer_name = streamer_name.lower()
