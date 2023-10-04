@@ -472,8 +472,7 @@ def main():
 
     @bot.event
     async def on_ready():
-        global bot_start_time
-        bot_start_time = datetime.datetime.now()
+        ch.save_time(str(datetime.datetime.now()))
         if not ch.check_restart_status():
             bot_owner_id = ch.get_bot_owner_id()
             if bot_owner_id:

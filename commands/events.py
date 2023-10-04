@@ -54,7 +54,7 @@ class Events(commands.Cog):
                 )
 
     '''On Command Error'''
-    '''@commands.Cog.listener()
+    @commands.Cog.listener()
     async def on_command_error(self, ctx, error):
         from colorama import Fore
         import discord
@@ -77,10 +77,7 @@ class Events(commands.Cog):
             )
             embed.set_thumbnail(url="https://i.imgur.com/lmVQboe.png")
             await ctx.send(embed=embed)
-        else:
-            # Handle other errors
-            await ctx.send(f"An error occurred: {error}")
-'''
+
     '''On Message'''
     @commands.Cog.listener()
     async def on_message(self, message):
